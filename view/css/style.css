@@ -19,7 +19,7 @@ body {
 }
 
 #loader-view {
-    /*display: none;*/
+    display: none;
 }
 
 .loader-container {
@@ -147,6 +147,10 @@ button.disabled {
     border: 1px solid #f0f0f0;
     border-radius: 4px;
     /*display: none;*/
+}
+
+.patient-profile-container {
+  display: none;
 }
 
 #patient-profile {
